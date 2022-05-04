@@ -1,11 +1,14 @@
 [
    {
-   "email": {
-          "remetente": "claims.latam@wipro.com",
-          "para": "ronaldo-sampaio@hotmail.com",
-          "assunto": "Reembolso",
-          "corpo": "Teste teste teste teste teste teste teste teste"
+       "remetente": "claims.latam@wipro.com",
+       "para": "ronaldo-sampaio@hotmail.com",
+       "assunto": "Reembolso",
+       "corpo": "Teste teste teste teste teste teste teste teste"
+   },
+   {
+       "remetente": "claims.latam@wipro.com",
+       "para": "ronaldo-sampaio@hotmail.com",
+       "assunto": "Reembolso",
+       "corpo": "Teste teste teste teste teste teste teste teste"
     }  
-
-  }
 ]
